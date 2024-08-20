@@ -11,8 +11,8 @@ print("\t" + first_name.lower(), " ", last_name.lower())
 
 X="Barbados"
 Y="Bangladesh"
-print("The result of ", X, " comes first in the dictionary than", Y, "is", X>Y)
-print("The result of ", Y, " comes first in the dictionary than", X, "is", Y>X)
+print("The result of ", X, " comes first in the dictionary than", Y, "is", X<Y)
+print("The result of ", Y, " comes first in the dictionary than", X, "is", Y<X)
 
 #ejercicio 3
 
