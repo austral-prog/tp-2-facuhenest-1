@@ -15,14 +15,18 @@ print("The result of ", X, " comes first in the dictionary than", Y, "is", X<Y)
 print("The result of ", Y, " comes first in the dictionary than", X, "is", Y<X)
 
 #ejercicio 3
+gasto= 23.75
+dinero= 100
 
-gasto=input("Ingresar gasto:\n")
-
-dinero=input("Dinero recibido \n")
+print("Ingresar gasto:")
+print(gasto)
+print("Dinero recibido")
+print(dinero)
 
 print(" ")
 print("Vuelto")
 print(" ")
+
 print("Pesos:")
 gasto2=float(gasto)
 dinero2=float(dinero)
